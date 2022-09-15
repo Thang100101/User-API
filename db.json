@@ -1,0 +1,19 @@
+{
+    "user":[
+        {
+            "id": 1,
+            "name": "Thắng",
+            "role": "admin"
+        },
+                {
+            "id": 2,
+            "name": "Vũ",
+            "role": "staff"
+        },
+        {
+            "id": 3,
+            "name": "Đức",
+            "role": "Customer"
+        },
+    ]
+}
